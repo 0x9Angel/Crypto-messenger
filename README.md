@@ -92,16 +92,6 @@ We are talking to:
 - Cryptographic auditors (Quarkslab, Synacktiv, NCC Group) for the security review.
 - Investors aligned with sovereign-tech and post-quantum thesis.
 
----
-
-## Get in touch
-
--  **Pilot enquiries** — [your-email]
--  **Security disclosure** — [your-pgp-key-fingerprint]
--  **Auditors / partners** — [your-email]
--  **Updates** — [your-handle]
-
----
 
 <div align="center">
 
